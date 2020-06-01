@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: This module fetches data from healthkit
+author: Moiz Chhatriwala
+license: Moiz chhatriwala all right reserved, no one can use module without my prior permission
+copyright: Moiz Chhatriwala 2020
+
+# these should not be edited
+name: Healthkit
+moduleid: com.moiz.healthkit
+guid: fc5b2ef4-027f-4a43-8831-8a19bf6e8344
+platform: iphone
+minsdk: 8.3.0.GA

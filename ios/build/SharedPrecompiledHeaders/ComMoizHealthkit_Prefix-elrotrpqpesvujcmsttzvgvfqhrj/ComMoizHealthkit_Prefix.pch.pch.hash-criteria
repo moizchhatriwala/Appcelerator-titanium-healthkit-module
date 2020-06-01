@@ -1,0 +1,30 @@
+-x
+objective-c
+-target
+armv7-apple-ios9.0
+-std=c99
+-fobjc-arc
+-fobjc-weak
+-fmodules
+-fbuild-session-file=/var/folders/79/394dbrm53cnbb5sm7vyfss2r0000gn/C/org.llvm.clang/ModuleCache.noindex/Session.modulevalidation
+-fpascal-strings
+-Os
+-DTI_VERSION=
+-DNDEBUG
+-DOBJC_OLD_DISPATCH_PROTOTYPES=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.sdk
+-g
+-fembed-bitcode
+-iquote
+-iquote
+-I/Users/moizchhatriwala/Documents/Appcelerator_Studio_Workspace1/Healthkit/ios/build/Release-iphoneos/include
+-I/Users/moizchhatriwala/Library/Application Support/Titanium/mobilesdk/osx/8.3.0.GA/iphone/include
+-I/Users/moizchhatriwala/Documents/Appcelerator_Studio_Workspace1/Healthkit/ios/build/Healthkit.build/Release-iphoneos/Healthkit.build/DerivedSources-normal/armv7
+-F/Users/moizchhatriwala/Documents/Appcelerator_Studio_Workspace1/Healthkit/ios/build/Release-iphoneos
+-F/Users/moizchhatriwala/Library/Application Support/Titanium/mobilesdk/osx/8.3.0.GA/iphone/Frameworks
+-DTI_POST_1_2
+arm-apple-darwin18.7.0
+"4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.33.8)"
+SDK_PRODUCT_BUILD_VERSION=17A566
+17A566
