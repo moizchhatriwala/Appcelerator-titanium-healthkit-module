@@ -1,8 +1,7 @@
-# Axway Titanium iOS Project
+# Axway Titanium Healthkit Module
 
-This is a skeleton Titanium iOS module project. Modules can be used to extend 
-the functionality of Titanium by providing additional native code that is compiled 
-into your application at build time and can expose certain APIs into JavaScript.
+This module can be used for integrating iOS healthkit framework in your application. This module can help you to preform following functionality using latest Appcelerator titanium sdk.
+1.
 
 ## Naming
 
